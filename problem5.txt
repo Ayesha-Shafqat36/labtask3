@@ -1,0 +1,28 @@
+#include <iostream>
+using namespace std;
+
+main()
+{
+string name;
+int matric;
+int inter;
+int ecat;
+float percentMatric;
+float percentInter;
+float percentEcat;
+float vMatric;
+float vInter;
+float vEcat;
+float aggregate;
+int obtain;
+
+cout << "obtain marks:";
+cin >> obtainMarks;
+
+cout << "total";
+cin >> total;
+ 
+matric=(obtain/1100.0)100
+cout << "percentMatric" << percentMtric;
+
+cout << " obtain inter"
